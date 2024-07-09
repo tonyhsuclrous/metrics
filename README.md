@@ -24,7 +24,7 @@ The proxy will export the following metrics:
 - routing path matching before counting metrics
 - exports HTTP metrics to Prometheus
 - whitelist and blacklist
-- flag for turn off `X-Forwarded-For` ip counting
+- flag to turn off `X-Forwarded-For` ip counting
 - instance overall rate limit and bust
 - user rate limit and bust
 - second level hacker behavior prevention (5 min of `429 Too Many Requests`)
