@@ -28,5 +28,3 @@ The proxy will export the following metrics:
 - instance overall rate limit and bust
 - user rate limit and bust
 - second level hacker behavior prevention (5 min of `429 Too Many Requests`)
-- routing path matching before counting metrics
-- exports HTTP metrics to Prometheus
